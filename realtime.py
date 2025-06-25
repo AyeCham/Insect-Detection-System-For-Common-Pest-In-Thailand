@@ -13,7 +13,7 @@ led = LED(15)
 model = YOLO("/home/admin/yolo/30classes/best30.pt")
 classNames = ["Aphids", "Beet Weevil", "Blister Beetle", "Brown Plant Hopper", "Carriola", "Durian Borer", "Flea Beetle", "Fruit Flies", "Glenea", "Legume Blister Beetle", "Longlegged Spider Mite", "Mango Leafhopper", "Mango-Leaf-Twister", "Mealybug", "Paddy Stem Maggot", "Psyllids", "Rice Gall Midge", "Rice Leaf Caterpillar", "Rice Leaf Roller", "Rice Leafhopper", "Rice Shell Pest", "Rice Water Weevil", "Scirtothrips dorsalis Hood", "Small Brown Plant Hopper", "Thrips"]
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1384791732142608404/FMCuVrVKhHTSbrNw-JZ4Ji6KO1ZU8Kh2x29Y_GHnJDTTGuYANR0LIjG-PGbPZpwJzCSN"
+DISCORD_WEBHOOK_URL = "discord_webhook_link:Url:......"
 
 log_file_path = "/home/admin/yolo/detected/detections_log.csv"
 
